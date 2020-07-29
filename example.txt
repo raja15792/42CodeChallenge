@@ -1,0 +1,7 @@
+$total|$total|200
+foo|$total|400
+foo|sauce|300
+foo|bacon|100
+bar|$total|-200
+bar|bro|200
+bar|sup|-400
